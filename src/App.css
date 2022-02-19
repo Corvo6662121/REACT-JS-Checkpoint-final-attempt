@@ -1,0 +1,7 @@
+.your-centered-div {
+
+    position: absolute; /* positions out of the flow, but according to the nearest parent */
+    top: 2; right: 5; /* confuse it i guess */
+    bottom: 0; left: 0;
+    margin: 5px; /* make em equal */
+}
